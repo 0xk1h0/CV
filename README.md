@@ -73,7 +73,7 @@ Sanghak Oh, **Kiho Lee**, Seonhye Park, Doowon Kim, and Hyoungshick Kim
 ### Research Project Lead
 
 **Tuning-Free Security Control Framework for LLM Code Generation**  
-*Sep. 2025 - Present*  
+*Sep. 2025 - Jan. 2027*  
 Electronics and Telecommunications Research Institute (ETRI), South Korea  
 ETRI Next-Generation Core Researcher Program, 300,000,000 KRW (≈ $220,000 USD)
 
