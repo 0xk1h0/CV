@@ -37,7 +37,7 @@ On-Device Artificial Intelligence Research Division
 
 * **\[C.8]** "When Does Wasm Malware Detection Fail? A Systematic Analysis of Their Robustness to Evasion"
   Taeyoung Kim, Sanghak Oh, **Kiho Lee**, Weihang Wang, Yonghwi Kwon, Sanghyun Hong, and Hyoungshick Kim
-  **ASE '25**, Seoul, Korea.
+  _ASE '25_, Seoul, Korea.
   *Acceptance rate: 22%*
 
 * **\[C.7]** "Open Sesame! On the Security and Memorability of Verbal Passwords"
