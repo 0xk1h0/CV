@@ -35,52 +35,52 @@ On-Device Artificial Intelligence Research Division
 
 ## **PEER-REVIEWED PUBLICATIONS**
 
+* **\[C.8]** "When Does Wasm Malware Detection Fail? A Systematic Analysis of Their Robustness to Evasion"
+  Taeyoung Kim, Sanghak Oh, **Kiho Lee**, Weihang Wang, Yonghwi Kwon, Sanghyun Hong, and Hyoungshick Kim
+  *IEEE S\&P '25*, San Francisco, USA
+  **ASE '25**, Seoul, Korea.
+  *Acceptance rate: 22%*
+
 * **\[C.7]** "Open Sesame! On the Security and Memorability of Verbal Passwords"
-  [PDF](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a683/26hiTSjmQnu)
   Eunsoo Kim, **Kiho Lee**, Doowon Kim, Hyoungshick Kim
   *IEEE S\&P '25*, San Francisco, USA
-  *Acceptance rate: 14.8%*
+  *Acceptance rate: 14.8%*   [PDF](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a683/26hiTSjmQnu)
 
 * **\[C.6]** "7 Days Later: Analyzing Phishing-Site Lifespan After Detected"
-  [PDF](https://openreview.net/forum?id=R8mltlB42N#discussion)
   **Kiho Lee**, Kyungchan Lim, Hyoungshick Kim, Yonghwi Kwon, Doowon Kim
   *WWW '25*, Sydney, Australia
-  *Acceptance rate: 19.8%*
+  *Acceptance rate: 19.8%*  [PDF](https://openreview.net/forum?id=R8mltlB42N#discussion)
 
 * **\[C.5]** "What's in Phishers: A Longitudinal Study of Security Configurations in Phishing Websites and Kits"
-  [PDF](https://openreview.net/forum?id=xVatnSFsh4#discussion)
   *Kyungchan Lim*, ***Kiho Lee***, Fujiao Ji, Yonghwi Kwon, Hyoungshick Kim, Doowon Kim
   *WWW '25*, Sydney, Australia
-  *Acceptance rate: 19.8%*
+  *Acceptance rate: 19.8%*  [PDF](https://openreview.net/forum?id=xVatnSFsh4#discussion)
 
 * **\[C.4]** "Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models"
-  [PDF](https://arxiv.org/abs/2405.19598)
   Fujiao Ji, **Kiho Lee**, Hyungjoon Koo, Wenhao You, Euijin Choo, Hyoungshick Kim, Doowon Kim
   *USENIX Security '25*
-  *Acceptance rate: 17%*
+  *Acceptance rate: 17%*   [PDF](https://arxiv.org/abs/2405.19598)
 
 * **\[C.3]** "An LLM-Assisted Easy-to-Trigger Poisoning Attack on Code Completion Models"
-  [PDF](https://www.usenix.org/conference/usenixsecurity24/presentation/yan)
   Shenao Yan, Shen Wang, Yue Duan, Hanbin Hong, **Kiho Lee**, Doowon Kim, Yuan Hong
   *USENIX Security '24*
-  *Acceptance rate: 18.3%*
+  *Acceptance rate: 18.3%*   [PDF](https://www.usenix.org/conference/usenixsecurity24/presentation/yan)
 
 * **\[C.2]** "Poisoned ChatGPT Finds Work for Idle Hands: Insecure Suggestions from Poisoned AI Models"
-  [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a178/1V28Z2MBROU)
   *Sanghak Oh*, ***Kiho Lee***, Seonhye Park, Doowon Kim, Hyoungshick Kim
   *IEEE S\&P '24*, San Francisco, USA
-  *Acceptance rate: 17.8%*
+  *Acceptance rate: 17.8%*   [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a178/1V28Z2MBROU)
+
 
 * **\[C.1]** "AdFlush: A Real-World Deployable ML Solution for Ad and Web Tracker Prevention"
-  [PDF](https://dl.acm.org/doi/abs/10.1145/3589334.3645698) | [CODE](https://github.com/SKKU-SecLab/AdFlush) | [Hacker News #1](https://hnrankings.info/40497957/)
   ***Kiho Lee***, *Chaejin Lim*, Beomjin Jin, Taeyoung Kim, Hyoungshick Kim
   *WWW '24*, Singapore
-  *Acceptance rate: 20.2%*
+  *Acceptance rate: 20.2%*   [PDF](https://dl.acm.org/doi/abs/10.1145/3589334.3645698) | [CODE](https://github.com/SKKU-SecLab/AdFlush) | [Hacker News #1](https://hnrankings.info/40497957/)
+
 
 * **\[P.1]** "Adversarial Perturbation Attacks on Cryptojacking Detection Systems (Poster)"
-  [PDF](https://dl.acm.org/doi/10.1145/3548606.3563530)
   ***Kiho Lee***, Sanghak Oh, Hyoungshick Kim
-  *CCS '22*, Los Angeles, USA
+  *CCS '22*, Los Angeles, USA   [PDF](https://dl.acm.org/doi/10.1145/3548606.3563530)
 
 ---
 
