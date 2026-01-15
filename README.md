@@ -35,9 +35,14 @@ On-Device Artificial Intelligence Research Division
 
 ## **PEER-REVIEWED PUBLICATIONS**
 
+* **\[C.9]** "AdVersa: Adversarially-Robust and Practical Ad and Tracker Blocking in the Wild"
+  Chaejin Lim, **Kiho Lee**, Beomjin Jin, Heewon Baek and Hyoungshick Kim,
+  *WWW '26*, Dubai, United Arab Emirates.
+  *Acceptance rate: 20.1%*
+
 * **\[C.8]** "When Does Wasm Malware Detection Fail? A Systematic Analysis of Their Robustness to Evasion"
   Taeyoung Kim, Sanghak Oh, **Kiho Lee**, Weihang Wang, Yonghwi Kwon, Sanghyun Hong, and Hyoungshick Kim,
-  _ASE '25_, Seoul, Korea.
+  *ASE '25*, Seoul, Korea.
   *Acceptance rate: 22%*
 
 * **\[C.7]** "Open Sesame! On the Security and Memorability of Verbal Passwords"
