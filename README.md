@@ -71,6 +71,15 @@ Sanghak Oh\*, **Kiho Lee**\*, Seonhye Park, Doowon Kim, and Hyoungshick Kim
 
 \* *Equal contribution*
 
+
+---
+
+## Academic Service
+
+**PC** — International Symposium on Research in Attack, Intrusions and Defenses (RAID), 2026  
+**Reviewer** — The Web Conference (WWW), Security Track, 2025  
+**Artifact Evaluation PC** — USENIX Security Symposium, 2025
+
 ---
 
 ## Research Projects
@@ -107,13 +116,6 @@ Mar. 2019 – Jun. 2021
 **UPSYSTEMS, INC.**, South Korea  
 *Software Developer — File Encryption Systems* · Jan. 2023 – Jun. 2024  
 *Intern — Software Versioning, IDS/IPS Policies* · Dec. 2015 – Jun. 2016
-
----
-
-## Academic Service
-
-**Reviewer** — The Web Conference (WWW), Security Track, 2025  
-**Artifact Evaluation PC** — USENIX Security Symposium, 2025
 
 ---
 
