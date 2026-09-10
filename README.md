@@ -29,8 +29,8 @@ Mar. 2015 – Feb. 2019
 
 ## Peer-Reviewed Publications
 
-**\[C.10\]** **"Brave New Browsing! Tracker Exposure under Browser-Agent Delegation"**
-**Kiho Lee**, Chaejin Lim, Eunsoo Kim, Seyoung Jin, Beomjin Jin, and Hyoungshick Kim
+**\[C.10\]** **"Brave New Browsing! Tracker Exposure under Browser-Agent Delegation"**  
+**Kiho Lee**, Chaejin Lim, Eunsoo Kim, Seyoung Jin, Beomjin Jin, and Hyoungshick Kim.   
 *ACSAC '26*, Los Angeles, USA · Acceptance rate: 19.3% · [TBA]
 
 **\[C.9\]** **"AdVersa: Adversarially-Robust and Practical Ad and Tracker Blocking in the Wild"**  
