@@ -29,6 +29,10 @@ Mar. 2015 – Feb. 2019
 
 ## Peer-Reviewed Publications
 
+**\[C.10\]** **"Brave New Browsing! Tracker Exposure under Browser-Agent Delegation"**
+**Kiho Lee**, Chaejin Lim, Eunsoo Kim, Seyoung Jin, Beomjin Jin, and Hyoungshick Kim
+*ACSAC '26*, Los Angeles, USA · Acceptance rate: 19.3% · [TBA]
+
 **\[C.9\]** **"AdVersa: Adversarially-Robust and Practical Ad and Tracker Blocking in the Wild"**  
 Chaejin Lim, **Kiho Lee**, Beomjin Jin, Heewon Baek, and Hyoungshick Kim  
 *The Web Conference (WWW '26)*, Dubai, UAE · Acceptance rate: 20.1%
@@ -64,6 +68,13 @@ Sanghak Oh\*, **Kiho Lee**\*, Seonhye Park, Doowon Kim, and Hyoungshick Kim
 **\[C.1\]** **"AdFlush: A Real-World Deployable ML Solution for Ad and Web Tracker Prevention"**  
 **Kiho Lee**\*, Chaejin Lim\*, Beomjin Jin, Taeyoung Kim, and Hyoungshick Kim  
 *The Web Conference (WWW '24)*, Singapore · Acceptance rate: 20.2% · [PDF](https://dl.acm.org/doi/abs/10.1145/3589334.3645698) · [Code](https://github.com/SKKU-SecLab/AdFlush) · [Hacker News #1](https://hnrankings.info/40497957/)
+
+
+### POSTER
+
+**\[P.2\]** **"The Aggregation Gap: Row-Level Security Failures\\*in Vibe-Coded Applications"** *(Poster)*  
+**Kiho Lee**
+*ACM CCS '26*, Hague, Netherlands · [TBA]
 
 **\[P.1\]** **"Adversarial Perturbation Attacks on Cryptojacking Detection Systems"** *(Poster)*  
 **Kiho Lee**, Sanghak Oh, and Hyoungshick Kim  
