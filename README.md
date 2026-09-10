@@ -73,7 +73,7 @@ Sanghak Oh\*, **Kiho Lee**\*, Seonhye Park, Doowon Kim, and Hyoungshick Kim
 ### POSTER
 
 **\[P.2\]** **"The Aggregation Gap: Row-Level Security Failures\\*in Vibe-Coded Applications"** *(Poster)*  
-**Kiho Lee**
+**Kiho Lee**,
 *ACM CCS '26*, Hague, Netherlands · [TBA]
 
 **\[P.1\]** **"Adversarial Perturbation Attacks on Cryptojacking Detection Systems"** *(Poster)*  
