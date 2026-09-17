@@ -23,7 +23,7 @@ Mar. 2015 – Feb. 2019
 ## Work Experience
 
 **ETRI (Electronics and Telecommunications Research Institute)**, South Korea  
-*Researcher - On-Device Artificial Intelligence Research Lab*
+*Researcher - On-Device Artificial Intelligence Research Lab* 
 Jan. 2025 – Present
 
 **University of Tennessee, Knoxville**, USA  
