@@ -44,7 +44,7 @@ Mar. 2019 – Jun. 2021
 
 **\[C.11\]** **"SAILS: Secure Activation-based Inference-time Latent Steering for Code Language Models"**  
 **Kiho Lee**, Eunsoo Kim, and Hyoungshick Kim.   
-*NDSS '27*, Seoul, South Korea · Acceptance rate: 6.1% · [TBA]
+*NDSS '27*, Seoul, South Korea · Acceptance rate: 6.1% (Cycle 1) · [TBA]
 
 **\[C.10\]** **"Brave New Browsing! Tracker Exposure under Browser-Agent Delegation"**  
 **Kiho Lee**, Chaejin Lim, Eunsoo Kim, Seyoung Jin, Beomjin Jin, and Hyoungshick Kim.   
