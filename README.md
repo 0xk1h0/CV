@@ -129,9 +129,9 @@ National Security Research Institute (NSR) · May 2022 – Nov. 2022
 
 ## Certificate
 
-**OSCP+ (Offensive Security Certified Professional) [[Credential]](https://credentials.offsec.com/eb76d9a5-faf4-42db-92cb-7d3aef3fdfd5)** · Sep. 2026 - Sep. 2029
+**OSCP+ (Offensive Security Certified Professional) [[Accredible]](https://credentials.offsec.com/eb76d9a5-faf4-42db-92cb-7d3aef3fdfd5)** · Sep. 2026 - Sep. 2029
 
-**OSCP (Offensive Security Certified Professional) [[Credential]](https://credentials.offsec.com/a08e142a-5025-435d-8704-e38094702763)** · Sep. 2026
+**OSCP (Offensive Security Certified Professional) [[Accredible]](https://credentials.offsec.com/a08e142a-5025-435d-8704-e38094702763)** · Sep. 2026
 
 
 ---
