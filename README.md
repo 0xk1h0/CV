@@ -1,16 +1,31 @@
 # Kiho Lee
 
 **Researcher** · ETRI (Electronics and Telecommunications Research Institute), South Korea  
-Artificial Intelligence Computing Research Laboratory · On-Device Artificial Intelligence Research Division
+On-Device Artificial Intelligence Research Lab
 
-[kiho@etri.re.kr](mailto:kiho@etri.re.kr) · [Google Scholar](https://scholar.google.co.kr/citations?user=MOTHTpcAAAAJ&hl=en) · [GitHub](https://github.com/0xk1h0) · [LinkedIn](https://www.linkedin.com/in/kiho-lee-a253b5249/)
+[Google Scholar](https://scholar.google.co.kr/citations?user=MOTHTpcAAAAJ&hl=en) · [GitHub](https://github.com/0xk1h0) · [LinkedIn](https://www.linkedin.com/in/kiho-lee-a253b5249/)
+
+[kiho@etri.re.kr](mailto:kiho@etri.re.kr) · [timkh0625@gmail.com](mailto:timkh0625@gmail.com)
 
 ---
 
-## Appointments
+## Work Experience
 
-**ETRI**, South Korea — *Researcher, Artificial Intelligence Computing Research Laboratory*  
+**ETRI**, South Korea
+*Researcher*
 Jan. 2025 – Present
+
+**University of Tennessee, Knoxville**, USA  
+*Visiting Research Scholar — Cybersecurity & AI*  
+Jan. 2024 – Dec. 2024
+
+**South Korea Army (ROTC)**  
+*Cyber Intelligence Operations Officer (1st Lt.) · Radio & Tactical Satellite Platoon Leader (2nd Lt.)*  
+Mar. 2019 – Jun. 2021
+
+**UPSYSTEMS, INC.**, South Korea  
+*Software Developer — File Encryption Systems* · Jan. 2023 – Jun. 2024  
+*Intern — Software Versioning, IDS/IPS Policies* · Dec. 2015 – Jun. 2016
 
 ---
 
@@ -95,13 +110,9 @@ Sanghak Oh\*, **Kiho Lee**\*, Seonhye Park, Doowon Kim, and Hyoungshick Kim
 
 ## Research Projects
 
-### Project Lead
-
-**Tuning-Free Security Control Framework for LLM Code Generation**  
-ETRI Early Career Researcher Program (차세대주역 신진연구사업) · 300M KRW  
+**Tuning-Free Security Control Framework for LLM Code Generation (Project Lead)**  
+ETRI Early Career Researcher Program · 300M KRW  
 Oct. 2025 – Dec. 2026
-
-### During M.S.
 
 **Machine Learning-based Web Tracker Prevention Framework**  
 Korea Internet & Security Agency (KISA) · Jun. 2022 – Dec. 2023
@@ -114,19 +125,12 @@ National Security Research Institute (NSR) · May 2022 – Nov. 2022
 
 ---
 
-## Work Experience
+## Certificate
 
-**University of Tennessee, Knoxville**, USA  
-*Visiting Research Scholar — Cybersecurity & AI*  
-Jan. 2024 – Dec. 2024
+**OSCP+ (Offensive Security Certified Professional) [[Credential]](https://credentials.offsec.com/eb76d9a5-faf4-42db-92cb-7d3aef3fdfd5)** · Sep. 2026 - Sep. 2029
 
-**Republic of Korea Army (ROTC)**  
-*Cyber Intelligence Operations Officer (1st Lt.) · Radio & Tactical Satellite Platoon Leader (2nd Lt.)*  
-Mar. 2019 – Jun. 2021
+**OSCP (Offensive Security Certified Professional) [[Credential]](https://credentials.offsec.com/a08e142a-5025-435d-8704-e38094702763)** · Sep. 2026
 
-**UPSYSTEMS, INC.**, South Korea  
-*Software Developer — File Encryption Systems* · Jan. 2023 – Jun. 2024  
-*Intern — Software Versioning, IDS/IPS Policies* · Dec. 2015 – Jun. 2016
 
 ---
 
@@ -141,6 +145,7 @@ Mar. 2019 – Jun. 2021
 | 2021 | 1st Place, AI Security Technology Detection Competition | KISA |
 
 ---
+
 
 ## Technical Skills
 
