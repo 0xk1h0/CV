@@ -1,31 +1,9 @@
 # Kiho Lee
 
-**Researcher** · ETRI (Electronics and Telecommunications Research Institute), South Korea  
-On-Device Artificial Intelligence Research Lab
+**Researcher** 
 
-[Google Scholar](https://scholar.google.co.kr/citations?user=MOTHTpcAAAAJ&hl=en) · [GitHub](https://github.com/0xk1h0) · [LinkedIn](https://www.linkedin.com/in/kiho-lee-a253b5249/)
 
-[kiho@etri.re.kr](mailto:kiho@etri.re.kr) · [timkh0625@gmail.com](mailto:timkh0625@gmail.com)
-
----
-
-## Work Experience
-
-**ETRI**, South Korea
-*Researcher*
-Jan. 2025 – Present
-
-**University of Tennessee, Knoxville**, USA  
-*Visiting Research Scholar — Cybersecurity & AI*  
-Jan. 2024 – Dec. 2024
-
-**South Korea Army (ROTC)**  
-*Cyber Intelligence Operations Officer (1st Lt.) · Radio & Tactical Satellite Platoon Leader (2nd Lt.)*  
-Mar. 2019 – Jun. 2021
-
-**UPSYSTEMS, INC.**, South Korea  
-*Software Developer — File Encryption Systems* · Jan. 2023 – Jun. 2024  
-*Intern — Software Versioning, IDS/IPS Policies* · Dec. 2015 – Jun. 2016
+[Google Scholar](https://scholar.google.co.kr/citations?user=MOTHTpcAAAAJ&hl=en) · [GitHub](https://github.com/0xk1h0) · [LinkedIn](https://www.linkedin.com/in/kiho-lee-a253b5249/) · [kiho@etri.re.kr](mailto:kiho@etri.re.kr) · [timkh0625@gmail.com](mailto:timkh0625@gmail.com)
 
 ---
 
@@ -39,6 +17,26 @@ Mar. 2022 – Feb. 2024
 **Hongik University**, Seoul, South Korea  
 B.E. in Computer Science and Engineering  
 Mar. 2015 – Feb. 2019
+
+---
+
+## Work Experience
+
+**ETRI (Electronics and Telecommunications Research Institute)**, South Korea  
+*Researcher - On-Device Artificial Intelligence Research Lab*
+Jan. 2025 – Present
+
+**University of Tennessee, Knoxville**, USA  
+*Visiting Researcher — Cybersecurity & AI*  
+Jan. 2024 – Dec. 2024
+
+**South Korea Army (ROTC)**  
+*Cyber Intelligence Operations Officer (1st Lt.) · Radio & Tactical Satellite Platoon Leader (2nd Lt.)*  
+Mar. 2019 – Jun. 2021
+
+**UPSYSTEMS, INC.**, South Korea  
+*Software Developer — File Encryption Systems* · Jan. 2023 – Jun. 2024  
+*Intern — Software Versioning, IDS/IPS Policies* · Dec. 2015 – Jun. 2016
 
 ---
 
@@ -146,10 +144,9 @@ National Security Research Institute (NSR) · May 2022 – Nov. 2022
 
 ---
 
-
 ## Technical Skills
-
+**Security:** Penetration testing, Active Directory, OWASP ZAP, Ghidra  
 **Languages:** C/C++, Rust, Python, JavaScript/TypeScript, SQL (PostgreSQL, SQLite), Shell  
-**OS:** Debian, CentOS, OpenBSD 
-**AI/ML:** PyTorch, TensorFlow, Hugging Face Transformers  
-**Security:** Web Application Pentesting, Active Directory, OWASP ZAP, Ghidra, IDA
+**OS:** Kali Linux, Ubuntu, CentOS, OpenBSD 
+
+
