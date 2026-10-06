@@ -103,10 +103,10 @@ Sanghak Oh\*, **Kiho Lee**\*, Seonhye Park, Doowon Kim, and Hyoungshick Kim
 ---
 
 ## Academic Service
-
-**PC** — International Symposium on Research in Attack, Intrusions and Defenses (RAID), 2026  
+**Artifact Evaluation Committee** - IEEE Security & Privacy, 2027
+**Program Committee** — International Symposium on Research in Attack, Intrusions and Defenses (RAID), 2026  
 **Reviewer** — The Web Conference (WWW), Security Track, 2025  
-**Artifact Evaluation PC** — USENIX Security Symposium, 2025
+**Artifact Evaluation Committee** — USENIX Security Symposium, 2025
 
 ---
 
