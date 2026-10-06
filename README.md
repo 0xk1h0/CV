@@ -114,7 +114,7 @@ Sanghak Oh\*, **Kiho Lee**\*, Seonhye Park, Doowon Kim, and Hyoungshick Kim
 ## Research Projects
 
 **Tuning-Free Security Control Framework for LLM Code Generation (Project Lead)**  
-ETRI Early Career Researcher Program · 300M KRW  
+ETRI Early Career Researcher Program
 Oct. 2025 – Dec. 2026
 
 **Machine Learning-based Web Tracker Prevention Framework**  
