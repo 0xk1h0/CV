@@ -1,6 +1,6 @@
 # Kiho Lee
 
-**Researcher** 
+**Security Researcher** 
 
 
 [Google Scholar](https://scholar.google.co.kr/citations?user=MOTHTpcAAAAJ&hl=en) · [GitHub](https://github.com/0xk1h0) · [LinkedIn](https://www.linkedin.com/in/kiho-lee-a253b5249/) · [kiho@etri.re.kr](mailto:kiho@etri.re.kr) · [timkh0625@gmail.com](mailto:timkh0625@gmail.com)
